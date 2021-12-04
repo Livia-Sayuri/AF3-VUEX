@@ -13,7 +13,7 @@ First of all:
 - Then this: npm install --save axios vue-axios and press 'enter'
 - Then this: yarn serve and press 'enter'
 - This will generate a new project, there will be a folder named App.vue, erase everything there and put the content of App.vue folder from AF3-VUEX that you've downloaded in this github link: https://github.com/Livia-Sayuri/AF3-VUEX.
-- Also, replace the folders: components, store and router with the content of these same folders from AF3-VUEX.
+- Also, replace the folders: components, store, views and router with the content of these same folders from AF3-VUEX.
 -  press F5 and choose your browser.
 
 
