@@ -20,6 +20,5 @@ First of all:
 - This is what the template will look like:
 
 
-  ![Test Image 1](https://user-images.githubusercontent.com/69463877/144708385-0c1926fe-04b9-4cff-aff7-a37157ae1ee3.png)
+  ![Test Image 1](https://user-images.githubusercontent.com/69463877/144709018-f7cd0aa2-2bf1-4e65-9eed-0759ae39a746.png)
 
--Sadly, I got this error :c
