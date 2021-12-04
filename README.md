@@ -1,4 +1,4 @@
-# my-template-project
+# AF3-VUEX
 
 ## Project setup
 ```
