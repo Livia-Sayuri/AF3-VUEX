@@ -4,9 +4,9 @@ First of all:
 - install the Vuetify in your VSCode
 - Open a new window on Visual Studio Code and go to the 'Terminal' buttom, select 'New Terminal'
 - Paste this: npm install -g @vue/cli and press 'enter'
-- Then this: vue create af3-vuex and press 'enter'
+- Then this: vue create my-template-project and press 'enter'
 - select the 'template-project ([Vue 2] babel, vuex, eslint)' option and press 'enter'
-- Then this: cd af3-vuex and press 'enter'
+- Then this: cd my-template-project and press 'enter'
 - Then this: vue add vuetify and press 'enter'
 - Select 'Default (recommended)' and press 'enter'
 - Then this: vue add router and press 'enter'
